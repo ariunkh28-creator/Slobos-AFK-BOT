@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobos13.aternos.me",
-    "port": 29195,
+    "ip": "11111122134.aternos.me:21747",
+    "port": 21747,
     "version": "1.21.1"
   },
   "position": {
